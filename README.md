@@ -5,4 +5,10 @@ Student at Edgemont High School
 ## Interests
 Bioinformatics/Robotics/AI
 
-Captain [@edgemontrobotics](https://github.com/edgemontrobotics)
+Alumni of [@edgemontrobotics](https://github.com/edgemontrobotics)
+
+## Projects
+
+[Wordle Together](https://wordletogether.com) played over 100k times
+
+
