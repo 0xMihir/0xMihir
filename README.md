@@ -9,6 +9,8 @@ Alumni of [@edgemontrobotics](https://github.com/edgemontrobotics)
 
 ## Projects
 
-[Wordle Together](https://wordletogether.com) played over 100k times
+Made [Wordle Together](https://wordletogether.com), which was played over 100,000 times
+
+Making computer science education more accessible at [Pondr](https://pondr.tech)
 
 
