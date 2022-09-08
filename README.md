@@ -11,6 +11,8 @@ Alum of [@edgemontrobotics](https://github.com/edgemontrobotics)
 
 Made [Wordle Together](https://wordletogether.com), which was played over 100,000 times
 
+Built a [Self-Driving Car](https://github.com/0xMihir/SelfDrivingCar) with the DepthAI camera and Tensorflow
+ 
 Making computer science education more accessible at [Pondr](https://pondr.tech)
 
-[Self-Driving Car Project](https://github.com/0xMihir/SelfDrivingCar)
+
