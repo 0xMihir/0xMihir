@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mihir Patil!
 
-I'm a Freshman at Purdue University majoring in Computer Science. 
+I'm a Sophomore at Purdue University majoring in Computer Science. 
 
 ## Interests
 Machine Learning / Embedded Systems / XR / Aerospace
