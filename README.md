@@ -3,7 +3,7 @@
 I'm a Sophomore at Purdue University majoring in Computer Science. 
 
 ## Interests
-Machine Learning / Embedded Systems / XR / Aerospace
+Aerospace / Embedded Systems/ Machine Learning / XR
 
 Member of the avionics subteam at [Purdue Space Program Liquids](https://purdueseds.space/liquids)
 
@@ -11,7 +11,7 @@ Alum of [@edgemontrobotics](https://github.com/edgemontrobotics)
 
 ## Projects
 
-Made a multiplayer version of Wordle, [Wordle Together](https://wordletogether.com), which was played over 200,000 times
+Made a multiplayer version of Wordle, [Wordle Together](https://wordletogether.com), which was played over 1 million times
 
 Built a [Self-Driving Car](https://github.com/0xMihir/SelfDrivingCar) with the DepthAI OAK-D camera and Tensorflow
  
