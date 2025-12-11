@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mihir Patil!
 
-I'm a Senior at Purdue University majoring in Computer Science. Also, I'm currently interning on the Autopilot Compiler team at Tesla!
+I'm a Senior at Purdue University majoring in Computer Science.
 
 ## Interests
 Machine Learning Compilers / Silicon / Aerospace / XR
